@@ -1,0 +1,146 @@
+{
+  "__plugin-vue_export-helper-DlAUqK2U.js": {
+    "file": "assets/_plugin-vue_export-helper-DlAUqK2U.js",
+    "name": "_plugin-vue_export-helper"
+  },
+  "_notifier-!~{00d}~.js": {
+    "file": "assets/notifier-Ble9mo3r.css",
+    "src": "_notifier-!~{00d}~.js"
+  },
+  "_notifier-BjApKgeD.js": {
+    "file": "assets/notifier-BjApKgeD.js",
+    "name": "notifier",
+    "imports": [
+      "assets/admin/main.js"
+    ],
+    "css": [
+      "assets/notifier-Ble9mo3r.css"
+    ]
+  },
+  "_preload-helper-B4-cSZR6.js": {
+    "file": "assets/preload-helper-B4-cSZR6.js",
+    "name": "preload-helper"
+  },
+  "assets/admin/main.js": {
+    "file": "assets/admin-DKtmiGTF.js",
+    "name": "admin",
+    "src": "assets/admin/main.js",
+    "isEntry": true,
+    "imports": [
+      "_preload-helper-B4-cSZR6.js"
+    ],
+    "dynamicImports": [
+      "assets/admin/pages/modules/Base.vue",
+      "assets/admin/pages/modules/Index.vue",
+      "assets/admin/pages/modules/m/element-switch/Base.vue",
+      "assets/admin/pages/modules/m/element-switch/Index.vue",
+      "assets/admin/pages/NotFound.vue"
+    ],
+    "css": [
+      "assets/admin-BZ1HlKUs.css"
+    ]
+  },
+  "assets/admin/pages/NotFound.vue": {
+    "file": "assets/NotFound-BSPDpQjt.js",
+    "name": "NotFound",
+    "src": "assets/admin/pages/NotFound.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "__plugin-vue_export-helper-DlAUqK2U.js",
+      "assets/admin/main.js",
+      "_preload-helper-B4-cSZR6.js"
+    ]
+  },
+  "assets/admin/pages/modules/Base.vue": {
+    "file": "assets/Base-DkCD9DwD.js",
+    "name": "Base",
+    "src": "assets/admin/pages/modules/Base.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "__plugin-vue_export-helper-DlAUqK2U.js",
+      "assets/admin/main.js",
+      "_preload-helper-B4-cSZR6.js"
+    ]
+  },
+  "assets/admin/pages/modules/Index.vue": {
+    "file": "assets/Index-kn-GGhda.js",
+    "name": "Index",
+    "src": "assets/admin/pages/modules/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "assets/admin/main.js",
+      "_notifier-BjApKgeD.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js",
+      "_preload-helper-B4-cSZR6.js"
+    ],
+    "css": [
+      "assets/Index-BGcKrgyE.css"
+    ]
+  },
+  "assets/admin/pages/modules/m/element-switch/Base.vue": {
+    "file": "assets/Base-CmRobXZi.js",
+    "name": "Base",
+    "src": "assets/admin/pages/modules/m/element-switch/Base.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "__plugin-vue_export-helper-DlAUqK2U.js",
+      "assets/admin/main.js",
+      "_preload-helper-B4-cSZR6.js"
+    ],
+    "css": [
+      "assets/Base-CGk0kZMO.css"
+    ]
+  },
+  "assets/admin/pages/modules/m/element-switch/Index.vue": {
+    "file": "assets/Index-hZ-Igrj3.js",
+    "name": "Index",
+    "src": "assets/admin/pages/modules/m/element-switch/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "assets/admin/main.js",
+      "_notifier-BjApKgeD.js",
+      "__plugin-vue_export-helper-DlAUqK2U.js",
+      "_preload-helper-B4-cSZR6.js"
+    ],
+    "css": [
+      "assets/Index-BJDiagLs.css"
+    ]
+  },
+  "assets/bricks/main.js": {
+    "file": "assets/bricks-CzLim_WB.js",
+    "name": "bricks",
+    "src": "assets/bricks/main.js",
+    "isEntry": true,
+    "imports": [
+      "_preload-helper-B4-cSZR6.js"
+    ],
+    "dynamicImports": [
+      "assets/bricks/modules/render-attribute/main.js"
+    ],
+    "css": [
+      "assets/bricks-BqN8BgIt.css"
+    ]
+  },
+  "assets/bricks/modules/render-attribute/main.js": {
+    "file": "assets/main-CibPNC_-.js",
+    "name": "main",
+    "src": "assets/bricks/modules/render-attribute/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "assets/bricks/main.js",
+      "_preload-helper-B4-cSZR6.js"
+    ]
+  },
+  "assets/elements/alpinejs/runtime.js": {
+    "file": "assets/elements/alpinejs/runtime-BBJM8KXZ.js",
+    "name": "elements/alpinejs/runtime",
+    "src": "assets/elements/alpinejs/runtime.js",
+    "isEntry": true
+  },
+  "assets/elements/lottie/main.js": {
+    "file": "assets/elements/lottie-DK93ZpOu.js",
+    "name": "elements/lottie",
+    "src": "assets/elements/lottie/main.js",
+    "isEntry": true
+  }
+}
